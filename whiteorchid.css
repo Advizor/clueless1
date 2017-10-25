@@ -1,0 +1,30 @@
+::-moz-selection, ::selection, { color:black; background:white; }
+::-webkit-scrollbar-thumb { background:#9d495d; }
+::-webkit-scrollbar-track { background:#d4c4c8; }
+::-webkit-scrollbar-corner, button, label, .navbar, .filters button { background:transparent }
+::-webkit-scrollbar { width: 8px;  height: 8px; }
+::-webkit-scrollbar-button { width: 0px; height: 0px; }
+:focus, #sideicons .muse-filter { outline:1px solid #b84141; }
+body, .muse { background:#f7eef0; color:#090205;  }
+a, .asker, .mfand { color:#7b386a; }
+a:hover, a:focus { color:#b84141; }
+blockquote { border-left:1px solid #9d495d; }
+h3 a,  #sideicons button, .settings h1, h1 a, .panel-heading, .permalinks a, .mname { color:#842f43!important; }
+h1 a:hover, h1 a:focus, .permalinks a:hover  { color:#3b2b2f; }
+#filt .panel-body button, .notes { border-bottom:1px solid #d4c4c8!important; }
+.tab .active a, #cookienotice { color:#aaa; }
+.is-checked { color:#7b386a!important; background:transparent!important; border:1px solid #7b386a!important; }
+.filt-group button { border-bottom:1px solid #7b386a!important; }
+b, strong, .mquote,  #filt .panel-body button, .filt-group button { color:#005400; }
+#sideicons .muse-filter img, #sideicons .muse-filter a img { outline:1px solid black;} 
+#sideicons .muse-filter { background:#d4c4c8; }
+#sideicons .muse-filter img, #sideicons .muse-filter a img, #filt .panel, .filt-group { border: solid 1px #d4c4c8!important }
+#sideicons .muse-filter img, #sideicons .muse-filter a img { -webkit-filter:#d4c4c8scale(100%);  }
+#sideicons .muse-filter img, #sideicons .muse-filter a img, #sideicons .muse-filter  { border:1px solid black; }
+#sideicons { color:#111 }
+.settings a:hover { background:#111 }
+button { margin:3px; border-right:#d4c4c8 1px solid; border-bottom:#d4c4c8 1px solid; border-left:#444 1px solid; border-top:#444 1px solid; }
+.panel-body { border:none!important; }
+#filt .panel-heading { border-bottom:1px #d4c4c8 solid!important; } 
+#sideicons .muse-filter a { color:black; }
+#fontSize {color:black!important; }  

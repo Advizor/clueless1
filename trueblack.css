@@ -1,0 +1,30 @@
+::-moz-selection, ::selection, { color:black; background:white; }
+::-webkit-scrollbar-thumb { background:#222; }
+::-webkit-scrollbar-track { background:#555; }
+::-webkit-scrollbar-corner, button, label, .navbar, .filters button { background:transparent }
+::-webkit-scrollbar { width: 8px;  height: 8px; }
+::-webkit-scrollbar-button { width: 0px; height: 0px; }
+:focus, #sideicons .muse-filter { outline:1px solid #aaa; }
+body, .muse { background:#000; color:#fff;  }
+a, .asker, .mfand { color:#fff; }
+a:hover, a:focus { color:#aaa; }
+blockquote { border-left:1px solid #fff; }
+h3 a,  #sideicons button, .settings h1, h1 a, .panel-heading, .permalinks a, .mname { color:#fff!important; }
+h1 a:hover, h1 a:focus, .permalinks a:hover  { color:#aaa; }
+#filt .panel-body button, .notes { border-bottom:1px solid #aaa!important; }
+.tab .active a, #cookienotice { color:#aaa; }
+.is-checked { color:#aaa!important; background:transparent!important; border:1px solid #aaa!important; }
+.filt-group button { border-bottom:1px solid #aaa!important; }
+b, strong, .mquote,  #filt .panel-body button, .filt-group button { color:#aaa; }
+#sideicons .muse-filter img, #sideicons .muse-filter a img { outline:1px solid #fff;} 
+#sideicons .muse-filter { background:#222; }
+#sideicons .muse-filter img, #sideicons .muse-filter a img, #filt .panel, .filt-group { border: solid 1px #777!important }
+#sideicons .muse-filter img, #sideicons .muse-filter a img { -webkit-filter:grayscale(100%);  }
+#sideicons .muse-filter img, #sideicons .muse-filter a img, #sideicons .muse-filter  { border:1px solid #fff; }
+#sideicons { color:#111 }
+.settings a:hover { background:#111 }
+button { margin:3px; border-right:#aaa 1px solid; border-bottom:#aaa 1px solid; border-left:#888 1px solid; border-top:#888 1px solid; }
+.panel-body { border:none!important; }
+#filt .panel-heading { border-bottom:1px #aaa solid!important; } 
+#sideicons .muse-filter a { color:#fff; }
+#fontSize {color:#fff!important; }  

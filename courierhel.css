@@ -1,0 +1,15 @@
+
+body { font-family:'Helvetica'; font-size:14px; -ms-text-size-adjust:100%; -moz-text-size-adjust:100%; -webkit-text-size-adjust:100%; }
+#s-m-t-tooltip, .settings a, .ribbon span  { font-family:'Helvetica'; }
+a { text-decoration:none; }
+a, h1, h2, h3, h4, h5, button, b, strong, i, em  { font-family:'Courier New'; font-size:1.1em;}
+.mname, h1, label { font-size:1.5em; } h2 { font-size:1.4em; } h3, .mfand {font-size:1.3em; } .mquote, .asker, h4, .quote, .muse a, a {font-size:1.2em!important; } #posts a, h5 {font-size:1.1em!important; }
+blockquote, small, sub, .settings a, #s-m-t-tooltip, .tab-links a, .mother, .post { font-size:1em!important; }
+#cookienotice, .songauthor, { font-size:.8em;  }
+.ribbon span { font-size: 10px; font-weight:bold;  line-height: 15px; letter-spacing:4px; text-transform:uppercase; transform: rotate(45deg); -webkit-transform: rotate(45deg);  }
+a, h1, h2, h3, h4, h5, .muse, ol.notes li.note span.action, ol.notes li.note .answer_content, .panel-heading  { font-weight:normal!important; } 
+h1, h2, h3, h4, h5, label { line-height: 120%; }
+a, .settings a, .quotesource{ letter-spacing:1px; }  
+.quote { letter-spacing:2px; }
+ul, ol, #navbar .tab-links li, ul.chat, .tags li, .muse li, .settings ul  { list-style:none; } 
+#filt .panel-heading { line-height:40%!important; }
